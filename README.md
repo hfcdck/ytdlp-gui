@@ -9,7 +9,7 @@ pip install yt_dlp
 ```
 pip install pyinstaller
 ```
-安装pyinstaller后使用以下命令打包
+安装pyinstaller后使用以下命令打包成exe
 ```
 pyinstaller --onefile --windowed ytdlp-gui.py
 ```
