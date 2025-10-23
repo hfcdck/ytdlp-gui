@@ -6,8 +6,7 @@ python环境运行需要安装
 pip install yt_dlp
 ```
 可自行打包成exe使用
-```
-```
+
 安装pyinstaller后使用以下命令打包成exe
 ```
 pyinstaller --onefile --windowed ytdlp-gui.py
