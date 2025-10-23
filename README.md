@@ -7,7 +7,6 @@ pip install yt_dlp
 ```
 可自行打包成exe使用
 ```
-pip install pyinstaller
 ```
 安装pyinstaller后使用以下命令打包成exe
 ```
