@@ -1,5 +1,5 @@
 # ytdlp-gui
-一个用python写的yt-dlp可视化界面，支持批量下载
+一个用python写的yt-dlp可视化界面，支持批量下载YouTube视频
 
 python环境运行需要安装
 ```
