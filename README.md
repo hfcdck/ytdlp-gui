@@ -1,8 +1,7 @@
 # ytdlp-gui
 一个用python写的yt-dlp可视化界面，支持批量下载YouTube视频
-```
-视频教程：https://www.bilibili.com/video/BV1nesjzhEXc/
-```
+
+;视频教程：https://www.bilibili.com/video/BV1nesjzhEXc/
 python环境运行需要安装
 ```
 pip install yt_dlp
