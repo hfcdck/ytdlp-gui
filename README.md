@@ -6,7 +6,6 @@ python环境运行需要安装
 pip install yt_dlp
 ```
 可自行打包成exe使用
-用
 ```
 pip install pyinstaller
 ```
